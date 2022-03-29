@@ -1,4 +1,4 @@
-name: pi_in_the_sky_game
+name: pi_in_the_sky
 description: A Pi in the Sky Game
 
 publish_to: 'none'
@@ -11,6 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
+  flame: ^1.1.0
 
   cupertino_icons: ^1.0.2
 
